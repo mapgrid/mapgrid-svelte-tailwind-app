@@ -1,1 +1,1 @@
-# mapgrid-svelte-tailwind
+# mapgrid-svelte-tailwind-app
